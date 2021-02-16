@@ -1,0 +1,23 @@
+{
+  "name": "Himpunan-Parentheses",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sangsangga/Himpunan-Parentheses.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sangsangga/Himpunan-Parentheses/issues"
+  },
+  "homepage": "https://github.com/sangsangga/Himpunan-Parentheses#readme",
+  "dependencies": {
+    "jest": "^26.6.3"
+  }
+}
